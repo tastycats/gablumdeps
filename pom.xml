@@ -62,11 +62,14 @@
     </build>
 
     <modules>
-        <module>auction</module>
+        <module>gablum-auction</module>
         <module>config-server</module>
         <module>discovery-server</module>
         <module>gateway</module>
-        <module>ui</module>
-        <module>user-api</module>
+        <module>gablum-webapp</module>
+        <module>gablum-proposals</module>
+        <module>gablum-scheduler</module>
+        <module>gablum-contracts</module>
+        <module>gablum-user-management</module>
     </modules>
 </project>
